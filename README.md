@@ -1,9 +1,9 @@
-# Projeto Regra de Progressão
+# Progress Rule Project
 
-programa em Java com uma interface intuitiva no terminal, que permite:
+A Java program with an intuitive terminal interface that allows you to:
 
-- Cadastrar atividades avaliativas para o período, seja exercícios ou projetos. Assim, você terá um controle completo sobre suas tarefas e metas.
+- Register evaluative activities for the period, whether they are exercises or projects. This way, you'll have complete control over your tasks and goals.
 
-- Inserir as notas dos exercícios e projetos cadastrados para o período. O programa calculará automaticamente o percentual alcançado, revelando seu desempenho de forma nítida e objetiva.
+- Input scores for the registered exercises and projects for the period. The program will automatically calculate the percentage achieved, revealing your performance clearly and objectively.
 
-- Com base no percentual alcançado, você descobrirá se foi aprovado ou reprovado. A mágica acontece quando você supera o limite de 85%. É a sua passagem para o próximo período, uma conquista a ser comemorada!
+- Based on the percentage achieved, you will find out if you passed or failed. The magic happens when you exceed the 85% threshold. It's your ticket to the next period, an achievement worth celebrating!
